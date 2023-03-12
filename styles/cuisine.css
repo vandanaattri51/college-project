@@ -1,0 +1,13 @@
+#header-desc{
+    margin: 10px 0px;
+}
+
+#header-desc h2{
+width: 50%;
+font-size: 60px;
+float: left;
+}
+
+#header-desc img{
+    width: 30%;
+    }

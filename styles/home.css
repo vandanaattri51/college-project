@@ -1,0 +1,42 @@
+#main h1 {
+	color: green;
+	font-size: 50px;
+}
+
+#main p {
+	font-size: 25px;
+	text-indent: 48px;
+}
+
+#desc-outer {
+	overflow: auto;
+}
+
+#main {
+
+	width: 60%;
+	float: left;
+}
+
+#map {
+	width: 40%;
+	overflow: auto;
+}
+
+#map img {
+	width: -webkit-fill-available;
+}
+
+#footer {
+	display: flex;
+}
+
+.fcontent {
+
+	margin-left: 20px;
+	width: 48%;
+	padding: 20px;
+	background-color: #ffecf8;
+
+}
+
